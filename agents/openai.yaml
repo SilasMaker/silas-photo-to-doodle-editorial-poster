@@ -1,0 +1,6 @@
+interface:
+  display_name: "Silas 照片转涂鸦编辑海报"
+  short_description: "把每张照片独立转成真实摄影与黑线涂鸦共叙的3:4编辑海报。"
+  default_prompt: "使用 $silas-photo-to-doodle-editorial-poster 把我上传的每张照片分别制作成独立编辑海报。"
+policy:
+  allow_implicit_invocation: true
