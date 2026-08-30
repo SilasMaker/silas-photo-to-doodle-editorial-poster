@@ -1,0 +1,22 @@
+.DS_Store
+
+# Private or generated media is excluded by default.
+*.png
+*.jpg
+*.jpeg
+*.heic
+*.webp
+*.gif
+*.mp4
+*.mov
+*.avi
+
+inputs/
+input/
+private/
+outputs/
+output/
+generated/
+examples/*
+!examples/01-donkey-and-bernese-poster.png
+!examples/02-serious-for-three-seconds-poster.png
