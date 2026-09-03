@@ -20,5 +20,6 @@ generated/
 examples/*
 !examples/01-donkey-and-bernese-poster.png
 !examples/02-serious-for-three-seconds-poster.png
-!examples/03-serious-for-now-bernese-poster.png
-!examples/04-sleepy-stroll-poodle-poster.png
+
+# Local studio catalog metadata is not part of the public package.
+00_文件来源.txt
